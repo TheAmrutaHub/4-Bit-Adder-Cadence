@@ -4,7 +4,9 @@ This project implements a 4-bit Binary Adder using Verilog HDL. The Full Adder i
 ⚙️Tools & Technologies
 
 Verilog HDL
+
 Cadence Simulation Environment
+
 Digital Logic Design Concepts
 
 
